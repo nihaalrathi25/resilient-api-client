@@ -574,3 +574,5 @@ Return a structured error
 ```
 
 The implementation prioritizes functional correctness, object-oriented separation of responsibilities, reproducibility, observability, and clear documentation.
+#   r e s i l i e n t - a p i - c l i e n t  
+ 
